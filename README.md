@@ -2,6 +2,8 @@
 
 Hi~ My name is Jungwoo Sim
 
+I am working on Toy Project "<a href="https://github.com/HealthEat-corp" target="_blank">Healtheat</a>".
+
 My ultimate goal is to be better today than yesterday by programming.
 
 <!--
