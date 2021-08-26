@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi~ My name is Jungwoo Sim
+
+My ultimate goal is to be better today than yesterday by programming.
+
 <!--
 **JungwooSim/JungwooSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
